@@ -1,0 +1,19 @@
+INFO:     127.0.0.1:32135 - "POST /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32290 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32290 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32290 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32290 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32323 - "OPTIONS /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32323 - "POST /chat HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32323 - "OPTIONS /chat/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32323 - "POST /chat/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32327 - "POST /chat HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32328 - "POST /chat/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32423 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32423 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32423 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32423 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32616 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32616 - "GET /products HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:32616 - "GET /products/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:32616 - "GET /products/ HTTP/1.1" 200 OK
